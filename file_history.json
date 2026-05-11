@@ -1,0 +1,40 @@
+{
+    "test_rename.txt": [
+        {
+            "timestamp": "2026-05-09 14:58:19",
+            "user": "student",
+            "operation": "upload",
+            "details": "File uploaded from client"
+        },
+        {
+            "timestamp": "2026-05-09 14:58:29",
+            "user": "student",
+            "operation": "read",
+            "details": "File content read"
+        },
+        {
+            "timestamp": "2026-05-09 14:58:47",
+            "user": "student",
+            "operation": "edit",
+            "details": "File content edited"
+        },
+        {
+            "timestamp": "2026-05-09 14:58:51",
+            "user": "student",
+            "operation": "read",
+            "details": "File content read"
+        },
+        {
+            "timestamp": "2026-05-09 14:59:00",
+            "user": "student",
+            "operation": "download",
+            "details": "File downloaded by client"
+        },
+        {
+            "timestamp": "2026-05-09 14:59:19",
+            "user": "student",
+            "operation": "rename",
+            "details": "Renamed from test.txt to test_rename.txt"
+        }
+    ]
+}
